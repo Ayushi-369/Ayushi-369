@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ayushi Singh 👋
 
-<!--
-**Ayushi-369/Ayushi-369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science)
 
-Here are some ideas to get you started:
+💻 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Passionate about Data Analysis, Machine Learning, and Business Intelligence
+
+## Skills
+- Python
+- SQL
+- Data Analysis
+- Excel
+- Power BI
+- Machine Learning
+
+## Projects
+- J.P. Morgan Quantitative Research Job Simulation
+- More Data Analytics Projects Coming Soon...
+
+## Connect with Me
+- LinkedIn
+- GitHub
