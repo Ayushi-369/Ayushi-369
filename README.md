@@ -16,7 +16,6 @@
 
 ## Projects
 - J.P. Morgan Quantitative Research Job Simulation
-- More Data Analytics Projects Coming Soon...
 
 ## Connect with Me
 - LinkedIn
